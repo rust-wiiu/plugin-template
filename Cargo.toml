@@ -1,0 +1,9 @@
+[package]
+name = "{{project-name}}"
+version = "0.1.0"
+edition = "2021"
+authors = ["{{authors}}"]
+
+[dependencies]
+wut = { path = "../wut-rs", version = "*" }
+wups = { path = "../wups-rs", version = "*", features = ["panic_handler"] }
