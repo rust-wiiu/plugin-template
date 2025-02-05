@@ -1,3 +1,7 @@
-# Sample program used while developing
+# Homebrew Plugins
 
-May contain invalid or non-compiling code, unstable features or half-finished stuff.
+This template helps you get started with writing plugins for the Aroma Homebrew environment.
+
+## How to use
+
+TODO
