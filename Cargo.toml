@@ -5,5 +5,5 @@ edition = "2021"
 authors = ["{{authors}}"]
 
 [dependencies]
-wut = { path = "../wut-rs", version = "*" }
-wups = { path = "../wups-rs", version = "*", features = ["panic_handler"] }
+wut = { path = "../wut", version = "*" }
+wups = { path = "../wups", version = "*", features = ["panic_handler"] }
